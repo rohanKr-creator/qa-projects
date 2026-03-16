@@ -1,4 +1,5 @@
 # Manual QA Testing Project
+QA Testing Portfolio by Rohan Kumar
 
 This project demonstrates manual testing of the SauceDemo e-commerce web application.
 
