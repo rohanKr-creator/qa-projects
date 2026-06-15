@@ -13,3 +13,34 @@
 ---
 
 ## 📁 Project structure
+qa-projects/
+
+├── manual-testing/
+
+├── automation/
+
+├── api-testing/
+
+└── README.md
+
+## 🛠 Tools & technologies
+
+| Tool | Purpose |
+|------|---------|
+| Selenium | UI automation |
+| Postman | API testing |
+| JIRA | Bug tracking |
+| TestNG | Test framework |
+| GitHub Actions | CI/CD |
+
+## 📌 Projects
+
+| Project | Type | Status |
+|---------|------|--------|
+| Login page testing | Manual | ✅ Done |
+| API test suite | Postman | 🔄 In progress |
+| E2E automation | Selenium | 📋 Planned |
+
+## 🤝 Connect
+
+Feel free to open issues or PRs. Star ⭐ the repo if it helps!
