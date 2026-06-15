@@ -16,11 +16,8 @@
 qa-projects/
 
 ├── manual-testing/
-
 ├── automation/
-
 ├── api-testing/
-
 └── README.md
 
 ## 🛠 Tools & technologies
